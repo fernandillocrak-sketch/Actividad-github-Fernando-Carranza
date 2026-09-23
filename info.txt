@@ -1,0 +1,5 @@
+Nombre del alumno: Fernando Carranza 
+Fecha: 09/09/2026 
+Objetivo: Practicar el uso de ramas y control de versiones con Git y GitHub. 
+Que es un Pull Request: Es una solicitud para revisar y fusionar los cambios de una rama hacia la rama principal del repositorio.
+Cambio realizado en la rama feature 
